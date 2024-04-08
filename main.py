@@ -1,7 +1,8 @@
-from typing import Union
+from typing import List, Union
 
-from fastapi import FastAPI
+from fastapi import FastAPI, Query
 from pydantic import BaseModel
+from typing_extensions import Annotated
 
 fake_items_db = [{"item_name": "Foo"}, {"item_name": "Bar"}, {"item_name": "Baz"}]
 
@@ -63,9 +64,21 @@ async def read_user_item(item_id: str, needy: str, skip: int = 0, limit: Union[i
     return item
 
 
+# @app.get("/items/")
+# async def read_item(skip: int = 0, limit: int = 10):
+#     return fake_items_db[skip: skip + limit]
+
 @app.get("/items/")
-async def read_item(skip: int = 0, limit: int = 10):
-    return fake_items_db[skip: skip + limit]
+async def read_items(q: Annotated[Union[str, None], Query(title="Query String",
+                                                          description="Query string for the items to search in the database that have a good match.",
+                                                          min_length=3,
+                                                          deprecated=True,
+                                                          alias="item-query")] = None,
+                                                          ):
+    results ={"items": [{"item_id": "Foo"}, {"item_id": "Bar"}]}
+    if q:
+        results.update({"q": q})
+    return results
 
 
 @app.post("/items/")
@@ -86,3 +99,4 @@ async def create_item(item_id: int, item: Item, q: Union[str, None] = None):
     if q:
         result.update({"q": q})
     return result
+
