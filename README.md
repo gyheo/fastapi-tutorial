@@ -1,5 +1,7 @@
 # FastAPI
 
+Repository for learning FastAPI web framework
+
 ## Progress Table for FastAPI tutorial
 
 | #  | Session                                                                                                           | Progress |
@@ -9,12 +11,12 @@
 | 3  | [Query Parameters](https://fastapi.tiangolo.com/tutorial/query-params/)                                           |    ✅     |
 | 4  | [Request Body](https://fastapi.tiangolo.com/tutorial/body/)                                                       |    ✅     |
 | 5  | [Query Parameters and String Validations](https://fastapi.tiangolo.com/tutorial/query-params-str-validations/)    |    ✅     |
-| 6  | [Path Parameters and Numeric Validations](https://fastapi.tiangolo.com/tutorial/path-params-numeric-validations/) |          |
+| 6  | [Path Parameters and Numeric Validations](https://fastapi.tiangolo.com/tutorial/path-params-numeric-validations/) |    ✅     |
 | 7  | [Body - Multiple Parameters](https://fastapi.tiangolo.com/tutorial/body-multiple-params/)                         |          |
 | 8  | [Body - Fields](https://fastapi.tiangolo.com/tutorial/body-fields/)                                               |          |
 | 9  | [Body - Nested Models](https://fastapi.tiangolo.com/tutorial/body-nested-models/)                                 |          |
 | 10 | [Declare Request Example Data](https://fastapi.tiangolo.com/tutorial/schema-extra-example/)                       |          |
-| 11 | [Extra Data Types](hhttps://fastapi.tiangolo.com/tutorial/extra-data-types/)                                      |          |
+| 11 | [Extra Data Types](https://fastapi.tiangolo.com/tutorial/extra-data-types/)                                       |          |
 | 12 | [Cookie Parameters](https://fastapi.tiangolo.com/tutorial/cookie-params/)                                         |          |
 | 13 | [Header Parameters](https://fastapi.tiangolo.com/tutorial/header-params/)                                         |          |
 | 14 | [Response Model - Return Type](https://fastapi.tiangolo.com/tutorial/response-model/)                             |          |
