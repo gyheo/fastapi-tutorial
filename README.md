@@ -14,7 +14,7 @@ Repository for learning FastAPI web framework
 | 6  | [Path Parameters and Numeric Validations](https://fastapi.tiangolo.com/tutorial/path-params-numeric-validations/) |    ✅     |
 | 7  | [Body - Multiple Parameters](https://fastapi.tiangolo.com/tutorial/body-multiple-params/)                         |    ✅     |
 | 8  | [Body - Fields](https://fastapi.tiangolo.com/tutorial/body-fields/)                                               |    ✅     |
-| 9  | [Body - Nested Models](https://fastapi.tiangolo.com/tutorial/body-nested-models/)                                 |          |
+| 9  | [Body - Nested Models](https://fastapi.tiangolo.com/tutorial/body-nested-models/)                                 |    ✅     |
 | 10 | [Declare Request Example Data](https://fastapi.tiangolo.com/tutorial/schema-extra-example/)                       |          |
 | 11 | [Extra Data Types](https://fastapi.tiangolo.com/tutorial/extra-data-types/)                                       |          |
 | 12 | [Cookie Parameters](https://fastapi.tiangolo.com/tutorial/cookie-params/)                                         |          |
