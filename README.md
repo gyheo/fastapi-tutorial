@@ -17,7 +17,7 @@ Repository for learning FastAPI web framework
 | 9  | [Body - Nested Models](https://fastapi.tiangolo.com/tutorial/body-nested-models/)                                 |    ✅     |
 | 10 | [Declare Request Example Data](https://fastapi.tiangolo.com/tutorial/schema-extra-example/)                       |    ✅     |
 | 11 | [Extra Data Types](https://fastapi.tiangolo.com/tutorial/extra-data-types/)                                       |    ✅     |
-| 12 | [Cookie Parameters](https://fastapi.tiangolo.com/tutorial/cookie-params/)                                         |          |
+| 12 | [Cookie Parameters](https://fastapi.tiangolo.com/tutorial/cookie-params/)                                         |    ✅     |
 | 13 | [Header Parameters](https://fastapi.tiangolo.com/tutorial/header-params/)                                         |          |
 | 14 | [Response Model - Return Type](https://fastapi.tiangolo.com/tutorial/response-model/)                             |          |
 | 15 | [Extra Models](https://fastapi.tiangolo.com/tutorial/extra-models/)                                               |          |
