@@ -4,7 +4,7 @@ Repository for learning FastAPI web framework
 
 ## Progress Table for FastAPI tutorial
 
-![Progress](https://progress-bar.dev/56/?title=progress)
+![Progress](https://progress-bar.dev/59/?title=progress)
 
 | #  | Session                                                                                                           | Progress |
 |:--:|-------------------------------------------------------------------------------------------------------------------|:--------:|
@@ -27,7 +27,7 @@ Repository for learning FastAPI web framework
 | 17 | [Form Data](https://fastapi.tiangolo.com/tutorial/request-forms/)                                                 |    ✅     |
 | 18 | [Request Files](https://fastapi.tiangolo.com/tutorial/request-files/)                                             |    ✅     |
 | 19 | [Request Forms and Files](https://fastapi.tiangolo.com/tutorial/request-forms-and-files/)                         |    ✅     |
-| 20 | [Handling Errors](https://fastapi.tiangolo.com/tutorial/handling-errors/)                                         |          |
+| 20 | [Handling Errors](https://fastapi.tiangolo.com/tutorial/handling-errors/)                                         |    ✅     |
 | 21 | [Path Operation Configuration](https://fastapi.tiangolo.com/tutorial/path-operation-configuration/)               |          |
 | 22 | [JSON Compatible Encoder](https://fastapi.tiangolo.com/tutorial/encoder/)                                         |          |
 | 23 | [Body - Updates](https://fastapi.tiangolo.com/tutorial/body-updates/)                                             |          |
