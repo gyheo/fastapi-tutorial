@@ -4,7 +4,7 @@ Repository for learning FastAPI web framework
 
 ## Progress Table for FastAPI tutorial
 
-![Progress](https://progress-bar.dev/68/?title=progress)
+![Progress](https://progress-bar.dev/71/?title=progress)
 
 | #  | Session                                                                                                           | Progress |
 |:--:|-------------------------------------------------------------------------------------------------------------------|:--------:|
@@ -34,7 +34,7 @@ Repository for learning FastAPI web framework
 | 24 | [Dependencies](https://fastapi.tiangolo.com/tutorial/dependencies/)                                               |          |
 | 25 | [Security](https://fastapi.tiangolo.com/tutorial/security/)                                                       |          |
 | 26 | [Middleware](https://fastapi.tiangolo.com/tutorial/middleware/)                                                   |          |
-| 27 | [CORS (Cross-Origin Resource Sharing)](https://fastapi.tiangolo.com/tutorial/cors/)                               |          |
+| 27 | [CORS (Cross-Origin Resource Sharing)](https://fastapi.tiangolo.com/tutorial/cors/)                               |    ✅     |
 | 28 | [SQL (Relational) Databases](https://fastapi.tiangolo.com/tutorial/sql-databases/)                                |    ✅     |
 | 29 | [Bigger Applications - Multiple Files](https://fastapi.tiangolo.com/tutorial/bigger-applications/)                |          |
 | 30 | [Background Tasks](https://fastapi.tiangolo.com/tutorial/background-tasks/)                                       |          |
