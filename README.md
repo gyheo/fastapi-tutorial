@@ -33,7 +33,7 @@ Repository for learning FastAPI web framework
 | 23 | [Body - Updates](https://fastapi.tiangolo.com/tutorial/body-updates/)                                             |          |
 | 24 | [Dependencies](https://fastapi.tiangolo.com/tutorial/dependencies/)                                               |          |
 | 25 | [Security](https://fastapi.tiangolo.com/tutorial/security/)                                                       |          |
-| 26 | [Middleware](https://fastapi.tiangolo.com/tutorial/middleware/)                                                   |          |
+| 26 | [Middleware](https://fastapi.tiangolo.com/tutorial/middleware/)                                                   |    ✅     |
 | 27 | [CORS (Cross-Origin Resource Sharing)](https://fastapi.tiangolo.com/tutorial/cors/)                               |    ✅     |
 | 28 | [SQL (Relational) Databases](https://fastapi.tiangolo.com/tutorial/sql-databases/)                                |    ✅     |
 | 29 | [Bigger Applications - Multiple Files](https://fastapi.tiangolo.com/tutorial/bigger-applications/)                |          |
