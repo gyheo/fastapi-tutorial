@@ -4,7 +4,7 @@ Repository for learning FastAPI web framework
 
 ## Progress Table for FastAPI tutorial
 
-![Progress](https://progress-bar.dev/71/?title=progress)
+![Progress](https://progress-bar.dev/77/?title=progress)
 
 | #  | Session                                                                                                           | Progress |
 |:--:|-------------------------------------------------------------------------------------------------------------------|:--------:|
@@ -41,4 +41,4 @@ Repository for learning FastAPI web framework
 | 31 | [Metadata and Docs URLs](https://fastapi.tiangolo.com/tutorial/metadata/)                                         |          |
 | 32 | [Static Files](https://fastapi.tiangolo.com/tutorial/static-files/)                                               |          |
 | 33 | [Testing](https://fastapi.tiangolo.com/tutorial/testing/)                                                         |          |
-| 34 | [Debugging](https://fastapi.tiangolo.com/tutorial/debugging/)                                                     |          |
+| 34 | [Debugging](https://fastapi.tiangolo.com/tutorial/debugging/)                                                     |    ✅     |
