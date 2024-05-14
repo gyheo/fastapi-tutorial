@@ -30,7 +30,7 @@ Repository for learning FastAPI web framework
 | 20 | [Handling Errors](https://fastapi.tiangolo.com/tutorial/handling-errors/)                                         |    ✅     |
 | 21 | [Path Operation Configuration](https://fastapi.tiangolo.com/tutorial/path-operation-configuration/)               |    ✅     |
 | 22 | [JSON Compatible Encoder](https://fastapi.tiangolo.com/tutorial/encoder/)                                         |    ✅     |
-| 23 | [Body - Updates](https://fastapi.tiangolo.com/tutorial/body-updates/)                                             |          |
+| 23 | [Body - Updates](https://fastapi.tiangolo.com/tutorial/body-updates/)                                             |    ✅     |
 | 24 | [Dependencies](https://fastapi.tiangolo.com/tutorial/dependencies/)                                               |          |
 | 25 | [Security](https://fastapi.tiangolo.com/tutorial/security/)                                                       |          |
 | 26 | [Middleware](https://fastapi.tiangolo.com/tutorial/middleware/)                                                   |    ✅     |
